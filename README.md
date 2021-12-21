@@ -1,0 +1,2 @@
+# RESTAURANT-DATABASE-SYSTEM
+A new restaurant is just about to open in the heart of Kuala Lumpur, the restaurant is expecting to have a lot of customers from both locals and foreigners during the grand opening events. The restaurant manager needs a database system to make their management manageable and going smoothly. This database project is very important to monitor their sales, employee details and customer details. By having all of these databases, restaurant managers are easier to make a monthly report on their sales and service.
